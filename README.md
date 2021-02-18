@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nicole.y.osborn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicole.y.osborn+github@gmail.com)](mailto:nicole.y.osborn+github@gmail.com)
 
 ## Hello 👋,
-I'm Nicole. I'm a UX Designer and Web Developer who is passionate about creating effective, effiecient and engaging user interfaces, making technology accessible and enjoyable for all who use it.
+I'm Nicole. I'm a UX Designer and Web Developer who is passionate about creating effective, effiecient, and engaging user interfaces, and making technology accessible and enjoyable for all who use it.
 
 - 🔭 I’m currently working on ... Personal UX Portfolio Website, and a user interface for our own Thermostat.
 - 🌱 I’m currently learning ... React/Redux on FreeCodeCamp
