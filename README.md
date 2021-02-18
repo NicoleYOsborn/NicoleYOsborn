@@ -11,6 +11,6 @@ I'm Nicole. I'm a UX Designer and Web Developer who is passionate about creating
 - 💬 Ask me about ... Harry Potter trivia (I'm part Ravenclaw and part Hufflepuff)
 - 📫 How to reach me: ... Email or LinkedIn! (see above ☝️ )
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... The saguaro 🌵, the largest cactus in the United States, can only be found in the Sonoran Dessert region of Arizona and Sonora, Mexico. It's blossom can only be seen in full bloom in parts of May and June, and is the State Flower of Arizona! 🌼
+- ⚡ Fun fact: ... The saguaro 🌵, the largest cactus in the United States, can only be found in the Sonoran Desert region of Arizona and Sonora, Mexico. It's blossom can only be seen in full bloom in parts of May and June, and is the State Flower of Arizona! 🌼
 ---
 ⭐️ From [NicoleYOsborn](https://github.com/NicoleYOsborn)
