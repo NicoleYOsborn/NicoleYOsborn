@@ -6,7 +6,7 @@
 I'm Nicole. I'm a UX Designer and Web Developer who is passionate about creating effective, effiecient, and engaging user interfaces, and making technology accessible and enjoyable for all who use it.
 
 - 🔭 I’m currently working on ... Personal UX Portfolio Website, and a user interface for our own Thermostat.
-- 🌱 I’m currently learning ... React/Redux on FreeCodeCamp
+- 🌱 I’m currently learning ... React/Redux on FreeCodeCamp, and PHP
 - 🤔 I’m looking for help with ... Finding a great UX Design Mentor!
 - 💬 Ask me about ... Harry Potter trivia (I'm part Ravenclaw and part Hufflepuff)
 - 📫 How to reach me: ... Email or LinkedIn! (see above ☝️ )
